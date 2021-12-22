@@ -1,5 +1,5 @@
 # stock-prediction-model
-
+## [Portfolio](https://obtainable-snowboard-2ed.notion.site/dcb681f4aa6d48148b211f9694d311e1)
 ## versions
 - python: 3.7
 
